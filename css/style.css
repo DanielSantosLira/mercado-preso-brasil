@@ -5,10 +5,10 @@
 
 /* conficuração das coles */
 :root {
-    --cor1: #c9b065;
+    --cor1: #5336BF;
     --cor2: #0a1130;
-    --cor3: #7d6a32;
-    --cor4: #ffffff;
+    --cor3: #6F7BBF;
+    --cor4: #C7D9D6;
 }
 
 
@@ -266,6 +266,7 @@ footer{
  }
  #logar1{
     width: 95%;
+    margin-right: 10%;
  }
  .logar h1{
     font-size: 1.8rem;
@@ -289,12 +290,12 @@ footer{
 
  }
  .logar img{
-    margin-left: -150px;
+    margin-left: -180px;
  }
  .logar #id_hoje{
     position: absolute;
     font-size: 1.5rem;
-    padding: 8% 20%;
+    padding: 8% 25%;
     line-height: 1.2rem;
     font-weight: 700;
     letter-spacing: 0.1rem;
@@ -302,10 +303,12 @@ footer{
  }
  .logar #p_hoje{
     position: absolute;
-    padding: 12% 23%;
+    padding: 11% 25.8%;
     line-height: 1.2rem;
     letter-spacing: 0.1rem;
     color: var(--cor2);
+    margin-top: 1.1%;
+    font-weight: 700;
 
  }
  .logar a{
@@ -313,7 +316,7 @@ footer{
     padding: 1% 2%;
     background-color: var(--cor2);
     color: var(--cor4);
-    margin: 15% -15%;
+    margin: 15% -7%;
     border: none;
     border-radius: 10px;
     
