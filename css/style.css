@@ -266,7 +266,6 @@ footer{
  }
  #logar1{
     width: 95%;
-    margin-right: 10%;
  }
  .logar h1{
     font-size: 1.8rem;
@@ -290,12 +289,12 @@ footer{
 
  }
  .logar img{
-    margin-left: -180px;
+    margin-left: -150px;
  }
  .logar #id_hoje{
     position: absolute;
     font-size: 1.5rem;
-    padding: 8% 25%;
+    padding: 8% 20%;
     line-height: 1.2rem;
     font-weight: 700;
     letter-spacing: 0.1rem;
@@ -303,12 +302,10 @@ footer{
  }
  .logar #p_hoje{
     position: absolute;
-    padding: 11% 25.8%;
+    padding: 12% 23%;
     line-height: 1.2rem;
     letter-spacing: 0.1rem;
     color: var(--cor2);
-    margin-top: 1.1%;
-    font-weight: 700;
 
  }
  .logar a{
@@ -316,7 +313,7 @@ footer{
     padding: 1% 2%;
     background-color: var(--cor2);
     color: var(--cor4);
-    margin: 15% -7%;
+    margin: 15% -15%;
     border: none;
     border-radius: 10px;
     
@@ -325,5 +322,3 @@ footer{
  background-color: var(--cor3);
  cursor: pointer;
  }
-
- 
